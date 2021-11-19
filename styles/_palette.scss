@@ -1,0 +1,18 @@
+// override these app-* scss variables for your theme
+// _root.scss should also reflect the values in here. i.e. rgb value for primary color
+// color palette
+$app-primary: $primary;
+$app-secondary: $secondary;
+$app-success: $success;
+$app-info: $info;
+$app-light: $light;
+$app-dark: $dark;
+$app-white: #FFFFFF;
+
+$primary: $app-primary;
+$secondary: $app-secondary;
+$success: $app-success;
+$info: $app-info;
+$light: $app-light;
+$dark: $app-dark;
+$white: $app-white;

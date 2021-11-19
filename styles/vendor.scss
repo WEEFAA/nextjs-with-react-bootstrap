@@ -1,6 +1,8 @@
 // bootstrap
 @import "bootstrap/scss/bootstrap-reboot.scss"; 
 // custom scss should go here...
+@import "palette.scss";
+
 $theme-colors: (
   'primary': $primary,
   'secondary': $secondary,
