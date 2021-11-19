@@ -19,11 +19,11 @@ To help you get started with NextJS with React-Bootstrap
 I've picked most of my preferred libraries that I think will help you 
 to build a better web.
 
-[axios](https://www.npmjs.com/package/axios)
-[bootstrap-icons](https://icons.getbootstrap.com/)
-[dateformat](https://www.npmjs.com/package/dateformat)
-[formik](https://formik.org/) with [yup](https://www.npmjs.com/package/yup)
-[axios](https://www.npmjs.com/package/axios) 
+- [axios](https://www.npmjs.com/package/axios)
+- [bootstrap-icons](https://icons.getbootstrap.com/)
+- [dateformat](https://www.npmjs.com/package/dateformat)
+- [formik](https://formik.org/) with [yup](https://www.npmjs.com/package/yup)
+- [axios](https://www.npmjs.com/package/axios) 
 
 # Styles
 
