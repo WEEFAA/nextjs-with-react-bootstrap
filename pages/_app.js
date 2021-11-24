@@ -2,6 +2,7 @@
 import "@styles/vendor.scss"
 import "@styles/main.scss"
 import 'bootstrap-icons/font/bootstrap-icons.css'
+import "@styles/_root.scss"
 
 function App({ Component, pageProps }) {
   // Custom layout
