@@ -4,7 +4,7 @@ import Container from 'react-bootstrap/Container'
 const Layout = function (props) {
   return (
     <>
-      <Navbar bg="dark" variant="dark">
+      <Navbar bg="primary" variant="dark">
         <Container className="justify-content-center">
           <Navbar.Brand href="#home">
             <img
